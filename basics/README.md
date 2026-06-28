@@ -1,7 +1,20 @@
 ## Shell basic commands
 
-* [0-current_working_directory](./0-current_working_directory) pwd = Print the name of the current working directory
-* [1-listit](./1-listit) ls = List information about the files (the current directory by default)
-* [2-bring_me_home](./2bring_me_home) cd = Change the current directory to DIR. The default DIR is the value of the HOME shell variable
-* [3-listfiles](./3-listfiles) ls -l = Use a long listing format
-
+* [Where am I](./0-current_working_directory) pwd = Print the name of the current working directory
+* [What's in there](./1-listit) ls = List information about the files (the current directory by default)
+* [There is no place like home](./2bring_me_home) cd = Change the current directory to DIR. The default DIR is the value of the HOME shell variable
+* [The Long format](./3-listfiles) ls -l = Use a long listing format
+* [Hidden files](./4-listmorefiles) ls -a = Include names starting with .
+* [I love numbers](./5-listfilesdigitonly) ls -lna = List numeric UIDs and GIDs instead of names
+* [Welcome](./6-firstdirectory) mkdir filename = Create Directory
+* [Betty in my first directory](./7-movethatfile) mv filename = Rename source to dest or move source to directory
+* [Bye bye Betty](./8-firstdelete) rm filename = Remove or unlink file
+* [Bye bye my first directory](./9-firstdirdeletion) rmdir DIRname = Remove directory if it is empty
+* [Back to the future](./10-back) cd .. = Change Directory to the parent directory
+* [List]()
+* [File type]()
+* [We are symbols, and inhabit symbols]()
+* [Copy HTML files]()
+* [List's move]()
+* [Clean Emacs]()
+* [Tree]()
