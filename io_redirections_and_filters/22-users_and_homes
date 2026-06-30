@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1,6 -d ':' /ect/passwd | sort
+find . -empty -printf "%f\n" | cut -f 1,6 -d ':' /ect/passwd | sort
