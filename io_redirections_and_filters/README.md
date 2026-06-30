@@ -2,8 +2,9 @@
 
 * [Hello World](./0-hello_world) echo - display a line of text
 * [Confused smiley](./1-confused_smiley)
-        \     Escape - (backslash) prevents the next character from being interpreted as a special charicter. This works outside of quoting, inside double quotes, and generally ignored in single quotes.
-        
+        \     Escape - (backslash) prevents the next character from being interpreted as a special charicter. This works outside of quoting, inside double quotes, and generally ignored in single quotes. To specify a plain left-bracket use \[
+
+       
        -e     enable interpretation of backslash escapes
 
 
