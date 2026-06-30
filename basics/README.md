@@ -1,7 +1,6 @@
 ## Shell basic commands
 
- [Where am I](.0-current_working_directory) 
-pwd - print name of currentworking directory
+ [Where am I](.0-current_working_directory) \n pwd - print name of currentworking directory
 
 SYNOPSIS
        pwd [OPTION]...
