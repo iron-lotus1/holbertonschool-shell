@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./etc/passwd -empty -printf "%f\n"
+cut -f 1,6 -d ':' /ect/passwd | sort
