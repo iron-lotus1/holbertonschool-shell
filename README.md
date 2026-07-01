@@ -3,7 +3,7 @@
 ## [basic](./basics)
 
 ### Manual
-* [cd](https://man7.org/linux/man-pages/man1/cd.1p.html)
+* <a href="https://man7.org/linux/man-pages/man1/cd.1p.html" target="_blank">cd<a>
 * [ls](https://man7.org/linux/man-pages/man1/ls.1.html)
 * [pwd](https://man7.org/linux/man-pages/man1/pwd.1.html)
 * [less](https://man7.org/linux/man-pages/man1/less.1.html)
