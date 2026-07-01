@@ -128,7 +128,13 @@
 #### EXAMPLE
     
     
-    If we were a photographer and had a large collection of images we wanted to organize into years and months, the first thing we might do is create a series of directories named in numeric “Year-Month” format. This way, the directory names will sort in chronological order. We could type out a complete list of directories, but that's a lot of work and it's error-prone too. 
+    If we were a photographer and had a large collection 
+    of images we wanted to organize into years and months, 
+    the first thing we might do is create a series 
+    of directories named in numeric “Year-Month” format. 
+    This way, the directory names will sort in chronological order. 
+    We could type out a complete list of directories, 
+    but that's a lot of work and it's error-prone too. 
 ####        
     $ mkdir {2017..2019}-{01..12}
     
